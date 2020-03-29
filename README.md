@@ -1,7 +1,7 @@
 # Algorithm
 
 #### Table of Contents
-*Bullet list
+* Bullet list
 Assignment statement, Conditional statements, Loop statements
 Functions and procedures
 Recursion
