@@ -1,6 +1,6 @@
 # Algorithm
 
-#### Table of Contents
+### Table of Contents
 
 * Assignment statement, Conditional statements, Loop statements
 * Functions and procedures
@@ -11,11 +11,11 @@
 * Lists, stacks and queues
 * Dictionaries
 
-#### Sorting
-##### * Selection sort <br>
+### Sorting
+#####  Selection sort <br>
 At each step, put at the right position the smallest element<br>
-##### * Bubble Sort 
+#####  Bubble Sort 
 If a element is bigger than the next adjacent element then swap them. Repeat until no swapping<br>
-##### * Insertion Sort
+#####  Insertion Sort
 Add an element to a sorted list
 
