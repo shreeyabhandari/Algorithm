@@ -12,10 +12,9 @@
 * Dictionaries
 
 ### Sorting
-#####  Selection sort <br>
-At each step, put at the right position the smallest element<br>
-#####  Bubble Sort 
-If a element is bigger than the next adjacent element then swap them. Repeat until no swapping<br>
-#####  Insertion Sort
-Add an element to a sorted list
 
+Sorting  | Description
+------------- | -------------
+Selection sort  | At each step, put at the right position the smallest element
+Bubble Sort  | If a element is bigger than the next adjacent element then swap them. Repeat until no swapping
+Insertion Sort  | Add an element to a sorted list
