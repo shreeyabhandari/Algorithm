@@ -24,7 +24,7 @@ Insertion Sort  | Add an element to a sorted list
 <b>Stack</b> is a container of objects that are inserted and removed according to the last-in first-out (LIFO) principle i.e. The last item added to the stack is the first one to be removed from the stack.</br>
 <b>Queue</b> is a container of objects (a linear collection) that are inserted and removed according to the first-in first-out (FIFO) principle i.e. the items are removed from the queue in exactly the same order they were added to it.
 
-<b>Stack Basic Operations
+<b>Stack Basic Operations</b>
 
 operation  | Description
 ------------- | -------------
