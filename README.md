@@ -34,7 +34,7 @@ Push  | add an element to the stack
 Pop  |  remove an element of the stack
 Is_Empty  | check whether the stack is empty
 
-<b>Queue Basic Operations
+<b>Queue Basic Operations</b>
 
 operation  | Description
 ------------- | -------------
