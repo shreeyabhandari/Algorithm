@@ -28,21 +28,21 @@ Insertion Sort  | Add an element to a sorted list
 
 operation  | Description
 ------------- | -------------
-Create_Stack  | create a stack
-Peek  |return the first item of the stack
-Push  | add an element to the stack
-Pop  |  remove an element of the stack
-Is_Empty  | check whether the stack is empty
+create_stack  | create a stack
+peek  |return the first item of the stack
+push  | add an element to the stack
+pop  |  remove an element of the stack
+is_empty  | check whether the stack is empty
 
 <b>Queue Basic Operations</b>
 
 operation  | Description
 ------------- | -------------
-Create_Queue  | create a queue
-Peek  |return the first item of the queue
-Enqueue  | add an element to the queue
-Dequeue  |  remove an element of the queue
-Is_Empty  | check whether the queue is empty
+create_queue  | create a queue
+peek  |return the first item of the queue
+enqueue  | add an element to the queue
+dequeue  |  remove an element of the queue
+is_empty  | check whether the queue is empty
 
 
 
