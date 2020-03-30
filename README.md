@@ -4,13 +4,11 @@
 
 * Data Structures (Stacks and Queues)
 * Sorting algorithms, dichotomous search
-* Assignment statement, Conditional statements, Loop statements
+* Dictionaries
+* Arrays
+* Complexity analysis
 * Functions and procedures
 * Recursion
-* Arrays
-* Complexity analysis.
-* Dictionaries
-
 
 ### Data Structures
 
