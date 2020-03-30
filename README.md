@@ -54,7 +54,7 @@ Keys  | Family_Name | First_Name | age
 ------------- | -------------  | ------------- | -------------
 Values  | Bhandari | Shreeya | 21
 
-* see Dictionary folder to see more algorith to work with dictionary
+* see Dictionary folder to see more algorith to work with dictionary https://github.com/shreeyabhandari/Algorithm/blob/master/Dictionary/dicoalgo.py
 
 
 
