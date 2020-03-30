@@ -45,6 +45,17 @@ Selection sort  | At each step, put at the right position the smallest element
 Bubble Sort  | If a element is bigger than the next adjacent element then swap them. Repeat until no swapping
 Insertion Sort  | Add an element to a sorted list
 
+### Dictionaries
+
+* A collection of unordered items that are accessed via keys and not via their position.
+* They consist of (key, value) pairs such that each possible key appears at most once.
+
+Keys  | Family_Name | First_Name | age
+------------- | -------------  | ------------- | -------------
+Values  | Bhandari | Shreeya | 21
+
+* see Dictionary folder to see more algorith to work with dictionary
+
 
 
 
